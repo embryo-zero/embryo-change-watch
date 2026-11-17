@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Change Watch
+
+**Embryo Change Watch** is Embryo-Zero's fork of [changedetection.io](https://github.com/dgtlmoon/changedetection.io), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 [<img src="./docs/banner-wide.png" style="max-width:100%;" alt="AI LLM Web site page change monitoring"  title="AI LLM Web site page change monitoring"  />](https://changedetection.io?src=github)
 
 # Detect Website Changes Automatically — Monitor Web Page Changes in Real Time
